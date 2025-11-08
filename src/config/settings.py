@@ -11,7 +11,7 @@ class Settings:
     """Application settings"""
     
     # API Settings
-    API_TITLE = "Mini RAG 2 API"
+    API_TITLE = "Mini RAG API"
     API_VERSION = "1.0.0"
     API_DESCRIPTION = "REST API for document processing, embeddings, semantic search, and LLM answering"
     
